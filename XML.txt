@@ -1,0 +1,24 @@
+AJAX:
+	Updating part of a web paging without reloading a whole page without realoading whole page.
+
+XML schema:
+
+XS:
+     namespace described in URL(like packages in java)
+
+
+saving file with xsd extension.(xml schema definition).
+3 types for ordering data:
+	<sequence>, <all>, <choice>.
+
+AJAX full form: Asynchronous javasript and XmlHttpRequest(XHR)
+
+call back function:
+	it is a function passed as a parameter to another function.
+
+the function call should contain URL.
+
+Methods of string:
+1.search()
+2.replace()
+3.exec()
